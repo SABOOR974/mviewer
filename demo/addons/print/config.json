@@ -10,10 +10,10 @@
   "target": "page-content-wrapper",
   "options": {
     "mviewer": {
-      "print": {
+      "print_app": {
         "printLayouts": "demo/addons/print/layouts/standard.json",
-        "ownerLogo": "https://avatars.githubusercontent.com/u/114171481?s=400&u=7fcf63ac01887ece3f5f2d5527e92c10527c7a91&v=4",
-        "ownerInfos": "Cette carte a été réalisée pour IDEO-BFC"
+        "ownerLogo": "https://geobretagne.fr/pub/logo/057_sage_gmre.jpg",
+        "ownerInfos": "Cette carte a été réalisée par le SAGE GMRE"
       }
     }
   }
